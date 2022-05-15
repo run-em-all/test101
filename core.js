@@ -1,6 +1,6 @@
 (function() {
     'use strict';
-//jkjkjk
+//jkjkjk456456
     angular
         .module('app.core')
         .run(appRun);
